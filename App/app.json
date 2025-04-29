@@ -1,0 +1,32 @@
+{
+  "id": "752acf8c-839a-41bf-b27d-8bf899260104",
+  "name": "RD Business Consulting Developments",
+  "publisher": "BryanA BC Developments Inc.",
+  "version": "25.0.1.0",
+  "brief": "Custom Developments for RD Business Consulting.",
+  "description": "Custom Developments for RD Business Consulting.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./Logo/BryanAlogo.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "25.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 70000,
+      "to": 70099
+    }
+  ],
+  "contextSensitiveHelpUrl": "http://www.contoso.com",
+  "features": ["TranslationFile"],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+ "runtime": "14.0",
+  "target": "Cloud"
+}
